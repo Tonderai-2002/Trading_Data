@@ -1,6 +1,6 @@
 # 📊 Personal Forex Trade Performance Analyzer & Strategy Optimizer
 
-This is a hands-on, personalized data project that analyzes my actual trading history exported from MT5/Deriv. It is designed to help me understand my trading behavior, measure performance, and lay the foundation for building data-driven strategy optimizations. This is a work in progress aimed at showcasing end-to-end data analysis and attracting recruiters with a unique, real-world data science use case.
+This is a hands-on, personalized data project that analyzes my actual trading history exported from MT5/Deriv. It is designed to help me understand my trading behavior, measure performance, and lay the foundation for building data-driven strategy optimizations. Thi work is aimed at showcasing end-to-end data analysis using real-world data.
 
 ---
 
